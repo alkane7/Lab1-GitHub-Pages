@@ -3,7 +3,7 @@
 Hi! I'm an **exchange student** from China studying Computer Science. I have experience on *Python, Java, C, Javascript, MoonBit...*
 
 ## Hi
-[Intro of myself](hi.md)
+![A image of me in Hongkong](wantingli.jpg)
 
 ## Quote
 > “Be yourself; everyone else is already taken.”  --Oscar Wilde
