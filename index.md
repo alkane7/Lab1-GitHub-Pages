@@ -3,7 +3,7 @@
 Hi! I'm an **exchange student** from China studying Computer Science. I have experience on *Python, Java, C, Javascript, MoonBit...*
 
 ## Hi
-![Link to hi.md](hi.md)
+[Link to hi.md](hi.md)
 ![A image of me in Hongkong](wantingli.jpg)
 
 ## Quote
