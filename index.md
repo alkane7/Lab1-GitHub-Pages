@@ -6,13 +6,8 @@ Hi! I'm an **exchange student** from China studying Computer Science. I have exp
 [Link to hi.md](hi.md)
 ![A image of me in Hongkong](wantingli.jpg)
 
-## Quote
-> “Be yourself; everyone else is already taken.”  --Oscar Wilde
-
-## Code
-```
-print("Hello from Li Wanting!")
-```
+## Experience
+Southern University of Science and Technology      2022-2026
 
 ## Additional Info
 
@@ -29,6 +24,14 @@ print("Hello from Li Wanting!")
 - [x] Major in CSE
 - [x] Go to UCSD 
 - [ ] Plan for future 
+
+## Quote
+> “Be yourself; everyone else is already taken.”  --Oscar Wilde
+
+## Code
+```
+print("Hello from Li Wanting!")
+```
 
 ## Cite
 This is my GitHub [profile](https://github.com/alkane7)
